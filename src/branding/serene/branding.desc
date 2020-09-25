@@ -121,13 +121,13 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         "SereneLinux"
+    productName:         "Serene Linux"
     shortProductName:    Generic
     version:             2020.2 LTS
     shortVersion:        2020.2
-    versionedName:       SereneLinux 
-    shortVersionedName:  SereneLinux 2020.09
-    bootloaderEntryName: SereneLinux
+    versionedName:       Serene Linux 
+    shortVersionedName:  Serene Linux 2020.09
+    bootloaderEntryName: Serene Linux
     productUrl:          https://calamares.io/
     supportUrl:          https://github.com/calamares/calamares/issues
     knownIssuesUrl:      https://calamares.io/about/

@@ -163,8 +163,8 @@ strings:
 # These filenames can also use substitutions from os-release (see above).
 images:
     # productBanner:       "banner.png"
-    productIcon:         "squid.png"
-    productLogo:         "squid.png"
+    productIcon:         "logo-512.png"
+    productLogo:         "logo-128.png"
     # productWallpaper:    "wallpaper.png"
     productWelcome:      "languages.png"
 
@@ -183,7 +183,7 @@ style:
    sidebarBackground:    "#292F34"
    sidebarText:          "#FFFFFF"
    sidebarTextSelect:    "#292F34"
-   sidebarTextHighlight: "#D35400"
+   sidebarTextHighlight: "#00AAD1"
 
 ### SLIDESHOW
 #
